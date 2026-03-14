@@ -3,7 +3,7 @@ package com.objectorientedprograms;
 import java.util.Scanner;
 
 /**
- * UC3 - Commercial data processing - StockAccount.java implements a data type that
+ * UC4 - Write a Program DeckOfCards.java, to initialize deck of cards having suit
  *
  * Requirements:
      *   (See PDF)
@@ -16,10 +16,10 @@ public class ObjectOrientedProgramsMain {
     public static void main(String[] args) {
         System.out.println("Welcome to ObjectOrientedPrograms");
         
-        System.out.println("\n=== Problem 3: Commercial data processing - StockAccount.java imp ===");
+        System.out.println("\n=== Problem 4: Write a Program DeckOfCards.java, to initialize de ===");
         // TODO: Implement problem solution
         // 
 
-        System.out.println("Problem 3 implemented!");
+        System.out.println("Problem 4 implemented!");
     }
 }
